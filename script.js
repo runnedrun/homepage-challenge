@@ -1,8 +1,3 @@
-// demo function
-function logArgs(args) {
-  var a = 1
-  console.log(args)
-};
 
 // firebase example
 function getNotesForName(name) {  
@@ -12,7 +7,7 @@ function getNotesForName(name) {
 }
 
 
-var functionString = get.toString();
+var functionString = getNotesForName.toString();
 
 var consoleLogExample = $("#ex1");
 
