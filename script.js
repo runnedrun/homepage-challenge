@@ -22,13 +22,13 @@ donut = {name: "donut", picture:  "http://www.withsprinklesontop.net/wp-content/
 
 var functionString1 = donut.toString();
 
-var consoleLogExample = $("#ex2");
+var consoleLogExample1 = $("#ex2");
 
-var formattedExample = $("<pre>");
+var formattedExample1 = $("<pre>");
 
-formattedExample.text(functionString1);
+formattedExample1.text(functionString1);
 
-consoleLogExample.html(formattedExample);
+consoleLogExample1.html(formattedExample1);
 
 
 
