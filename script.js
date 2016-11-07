@@ -49,7 +49,7 @@ var formattedExample2 = $("<pre>");
 
 formattedExample2.text(functionString2);
 
-consoleLogExample1.html(formattedExample1);
+consoleLogExample2.html(formattedExample2);
 
 
 
